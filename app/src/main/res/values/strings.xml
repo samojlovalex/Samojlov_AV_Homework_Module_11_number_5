@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Samojlov_AV_Homework_Module_11_number_5</string>
+    <string name="exit">Exit</string>
+    <string name="toast_exit">Приложение закрыто</string>
+    <string name="toolbar_title">Калькулятор</string>
+    <string name="toolbar_subtitle">Mod. 11 № 5</string>
+    <string name="editTextETHint">input</string>
+    <string name="textVieWTVHint">result</string>
+    <string name="buttonDivisionBT">/</string>
+    <string name="buttonOneBT">1</string>
+    <string name="buttonTwoBT">2</string>
+    <string name="buttonThreeBT">3</string>
+    <string name="buttonMultiplicationBT">*</string>
+    <string name="buttonFourBT">4</string>
+    <string name="buttonFiveBT">5</string>
+    <string name="buttonSixBT">6</string>
+    <string name="buttonMinusBT">-</string>
+    <string name="buttonSevenBT">7</string>
+    <string name="buttonEightBT">8</string>
+    <string name="buttonNineBT">9</string>
+    <string name="buttonPlusBT">+</string>
+    <string name="buttonZeroBT">0</string>
+    <string name="buttonEquallyBT">=</string>
+    <string name="buttonResetBT">reset</string>
+</resources>
